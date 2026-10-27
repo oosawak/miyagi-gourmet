@@ -1,0 +1,15 @@
+id: miyagi
+name: 宮城グルメ案内
+short_name: 宮城グルメ
+kind: media
+kind_label: グルメメディア
+accent: '#a06a2c'
+eyebrow: TASTE OF MIYAGI
+hero_title: '宮城のおいしいものを、
+ゆっくりめぐる。'
+description: 牛タン、ずんだ、笹かま、海の幸。仙台・県南・県北・海側、宮城のおいしい風景をたどるグルメ案内です。
+subtitle: 宮城の味を集めた読みもの
+hero_note: 郷土の味と小さな旅
+about: 宮城県内の飲食店を訪れた人のSNS投稿をもとに、お店と料理を紹介するグルメ案内です。カバー画像はAIが作成した水彩調イラストで、実際の料理の写真は各記事に埋め込んだ元投稿で確認できます。
+
+hero_image: miyagi/hero.webp

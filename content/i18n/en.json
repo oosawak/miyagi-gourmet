@@ -1,0 +1,16 @@
+{
+  "sites": {
+    "miyagi": {
+      "name": "Miyagi Food Guide",
+      "short_name": "Miyagi Food",
+      "kind_label": "Food magazine",
+      "hero_title": "Take your time exploring\nthe flavors of Miyagi.",
+      "description": "Beef tongue, zunda, sasa-kamaboko and seafood: a guide to the flavors of Sendai, Kennan, Kenhoku and the coast in Miyagi.",
+      "subtitle": "Stories about the tastes of Miyagi",
+      "hero_note": "Local flavors and short trips",
+      "about": "A Miyagi food guide based on social posts by people who visited local eateries. Cover images are AI-created watercolor illustrations; see the embedded original posts for actual photos of the food.",
+      "source_hash": "402168ae4125ead76d23f01d50b618bf64f8d75c6ca89d62366344651fb7644d"
+    }
+  },
+  "posts": {}
+}
