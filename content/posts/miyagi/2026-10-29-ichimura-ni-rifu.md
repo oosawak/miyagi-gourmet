@@ -19,6 +19,10 @@ source_url: https://www.instagram.com/reel/Ddn-o4Dppu8/
 
 カバーの写真は、同店の「豚らーめん」です。厚切りチャーシューと低温チャーシュー、背脂がのった、淡麗そばとは対照的なボリュームの一杯です。
 
+もう一杯、「濃厚鳥塩」です。金色のスープにチャーシュー2種とメンマ、ねぎがのっています。
+
+![自家製麺いちむら弐の「濃厚鳥塩」の写真（金色のスープにチャーシューとメンマ）](miyagi/ichimura-ni-rifu-torishio.webp)
+
 お店の場所・電話番号・営業時間は、この記事下部の「お店の場所」からGoogleマップで確認できます。
 
 出典: [Instagramの投稿](https://www.instagram.com/reel/Ddn-o4Dppu8/)
