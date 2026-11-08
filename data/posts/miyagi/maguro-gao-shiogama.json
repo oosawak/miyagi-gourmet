@@ -18,7 +18,14 @@
     "mime": "image/webp"
   },
   "i18n": {
-    "en": {}
+    "en": {
+      "title": "Shiogama City \"Maguro Senmonten Gao\" — Tuna Bowl at Naorai Yokocho",
+      "category": "Coast",
+      "summary": "\"Maguro Senmonten Gao\" is located in Naorai Yokocho on Kaigan-dori in Shiogama City. A specialty restaurant where you can enjoy tuna dishes such as negitoro bowls, it is featured in visitor posts as a place you'll want to visit from time to time.",
+      "cover_alt": "Watercolor-style illustration of a tuna negitoro bowl",
+      "html": "<p>This is &quot;Maguro Senmonten Gao,&quot; located in Naorai Yokocho on Kaigan-dori in Shiogama City.</p>\n<p>The original post describes a visit to experience a bowl unique to a tuna specialty shop. It is one of the restaurants that visitors coming for the negitoro mention as places they find themselves wanting to return to from time to time.</p>\n<p>This is a place you'll want to stop by when you want to casually enjoy seafood in the port town of Shiogama.</p>\n<p>You can find the restaurant's location, phone number, and business hours on Google Maps via &quot;Restaurant Location&quot; at the bottom of this article.</p>\n<p>Source: <a href=\"https://www.threads.com/@laugh.rain/post/DcW8lsKEyC2\">Threads post</a></p>\n",
+      "markdown": "This is \"Maguro Senmonten Gao,\" located in Naorai Yokocho on Kaigan-dori in Shiogama City.\n\nThe original post describes a visit to experience a bowl unique to a tuna specialty shop. It is one of the restaurants that visitors coming for the negitoro mention as places they find themselves wanting to return to from time to time.\n\nThis is a place you'll want to stop by when you want to casually enjoy seafood in the port town of Shiogama.\n\nYou can find the restaurant's location, phone number, and business hours on Google Maps via \"Restaurant Location\" at the bottom of this article.\n\nSource: [Threads post](https://www.threads.com/@laugh.rain/post/DcW8lsKEyC2)\n"
+    }
   },
   "embed_url": "https://www.threads.com/@laugh.rain/post/DcW8lsKEyC2",
   "embed_platform": "threads",

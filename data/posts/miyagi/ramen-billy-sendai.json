@@ -18,7 +18,14 @@
     "mime": "image/webp"
   },
   "i18n": {
-    "en": {}
+    "en": {
+      "title": "Sendai \"Ramen Billy\" — Shio Ramen, 950 yen, 200g serving",
+      "category": "Sendai",
+      "summary": "\"Ramen Billy\" in the Sendai area. A visitor's post describes their experience having the shio ramen (950 yen) with 200g of noodles and a light serving of vegetables.",
+      "cover_alt": "Watercolor-style illustration of shio ramen",
+      "html": "<p>This is Ramen Billy, a ramen shop in the Sendai area.</p>\n<p>The original post describes ordering shio ramen. The price was 950 yen, with a 200g serving of noodles and a request for fewer vegetables; the post is presented as one aimed at ramen lovers in Sendai and Miyagi.</p>\n<p>Please note that since the original post does not specify which stores (or how many) were visited, please check the nearby store information on the map guide below when visiting.</p>\n<p>You can find the store's location, phone number, and business hours on Google Maps via &quot;Store Location&quot; at the bottom of this article.</p>\n<p>Source: <a href=\"https://www.threads.com/@yu_04_14/post/DSamQOPErBD\">Threads post</a></p>\n",
+      "markdown": "This is Ramen Billy, a ramen shop in the Sendai area.\n\nThe original post describes ordering shio ramen. The price was 950 yen, with a 200g serving of noodles and a request for fewer vegetables; the post is presented as one aimed at ramen lovers in Sendai and Miyagi.\n\nPlease note that since the original post does not specify which stores (or how many) were visited, please check the nearby store information on the map guide below when visiting.\n\nYou can find the store's location, phone number, and business hours on Google Maps via \"Store Location\" at the bottom of this article.\n\nSource: [Threads post](https://www.threads.com/@yu_04_14/post/DSamQOPErBD)\n"
+    }
   },
   "embed_url": "https://www.threads.com/@yu_04_14/post/DSamQOPErBD",
   "embed_platform": "threads",

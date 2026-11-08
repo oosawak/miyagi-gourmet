@@ -18,7 +18,14 @@
     "mime": "image/webp"
   },
   "i18n": {
-    "en": {}
+    "en": {
+      "title": "Sendai City's \"Jogi Tofu Shop\" — Sankaku-age and Rich Soy Milk",
+      "category": "Sendai",
+      "summary": "\"Jogi Tofu Shop,\" located in Aoba Ward, Sendai City. Known for its signature triangular fried tofu—served with shichimi garlic and soy sauce while enjoying rich soy milk—it is featured in visitor posts as a spot that makes you want to eat two pieces.",
+      "cover_alt": "Watercolor-style illustration of triangular fried tofu and soy milk",
+      "html": "<p>This is Jogi Tofu Shop, located in the Jogi area of Aoba Ward, Sendai City.</p>\n<p>The original post describes enjoying sankaku-age while sipping rich soy milk. The highlight is eating the sankaku-age with shichimi garlic and soy sauce; the visitor's impression is that it is incredibly delicious and that they always end up eating at least two pieces whenever they visit.</p>\n<p>This restaurant is appealing for offering sankaku-age—known as a local specialty—to be enjoyed on the spot with soy milk.</p>\n<p>You can find the restaurant's location, phone number, and business hours on Google Maps via &quot;Restaurant Location&quot; at the bottom of this article.</p>\n<p>Source: <a href=\"https://www.threads.com/@azuma_wm/post/De-bZI7gdlx\">Threads post</a></p>\n",
+      "markdown": "This is Jogi Tofu Shop, located in the Jogi area of Aoba Ward, Sendai City.\n\nThe original post describes enjoying sankaku-age while sipping rich soy milk. The highlight is eating the sankaku-age with shichimi garlic and soy sauce; the visitor's impression is that it is incredibly delicious and that they always end up eating at least two pieces whenever they visit.\n\nThis restaurant is appealing for offering sankaku-age—known as a local specialty—to be enjoyed on the spot with soy milk.\n\nYou can find the restaurant's location, phone number, and business hours on Google Maps via \"Restaurant Location\" at the bottom of this article.\n\nSource: [Threads post](https://www.threads.com/@azuma_wm/post/De-bZI7gdlx)\n"
+    }
   },
   "embed_url": "https://www.threads.com/@azuma_wm/post/De-bZI7gdlx",
   "embed_platform": "threads",

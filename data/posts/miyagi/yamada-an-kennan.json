@@ -18,7 +18,14 @@
     "mime": "image/webp"
   },
   "i18n": {
-    "en": {}
+    "en": {
+      "title": "\"Yamada-an\" in Southern Miyagi — Meat-Based Chinese Cuisine for Under ¥1,000",
+      "category": "Southern Miyagi",
+      "summary": "\"Yamada-an,\" featured in the southern region of Miyagi Prefecture. Known for its excellent value—offering meat-based Chinese cuisine for under 1,000 yen—it is highlighted in visitor posts as a hidden gem in the southern part of the prefecture.",
+      "cover_alt": "Watercolor-style illustration of meat chuka soba",
+      "html": "<p>This is &quot;Yamada-an,&quot; which was described as being located in the southern area of Miyagi Prefecture.</p>\n<p>The original post describes a visit for niku chuka (meat chuka soba). The excellent value—enjoying this bowl for under 1,000 yen—is particularly striking, and it is highlighted as a hidden gem in the southern part of the prefecture.</p>\n<p>Please note that the original post does not provide detailed location information down to the municipality, so when visiting, please also check the restaurant information via the map directions below.</p>\n<p>You can find the restaurant's location, phone number, and business hours on Google Maps via &quot;Restaurant Location&quot; at the bottom of this article.</p>\n<p>Source: <a href=\"https://www.threads.com/@ohayo_sendai/post/DZTeo_9E_ug\">Threads post</a></p>\n",
+      "markdown": "This is \"Yamada-an,\" which was described as being located in the southern area of Miyagi Prefecture.\n\nThe original post describes a visit for niku chuka (meat chuka soba). The excellent value—enjoying this bowl for under 1,000 yen—is particularly striking, and it is highlighted as a hidden gem in the southern part of the prefecture.\n\nPlease note that the original post does not provide detailed location information down to the municipality, so when visiting, please also check the restaurant information via the map directions below.\n\nYou can find the restaurant's location, phone number, and business hours on Google Maps via \"Restaurant Location\" at the bottom of this article.\n\nSource: [Threads post](https://www.threads.com/@ohayo_sendai/post/DZTeo_9E_ug)\n"
+    }
   },
   "embed_url": "https://www.threads.com/@ohayo_sendai/post/DZTeo_9E_ug",
   "embed_platform": "threads",

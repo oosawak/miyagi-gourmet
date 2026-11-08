@@ -60,7 +60,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Rifu Town \"Jikaseimen Ichimura Ni\" — Clear, Light Soy Sauce Soba",
+          "category": "Coast",
+          "summary": "\"Jikaseimen Ichimura Ni,\" located in Rifu Town, Miyagi District, Miyagi Prefecture. Its signature dish is light soba with a clear soy sauce broth; a large serving is priced at 1,250 yen, as featured in a post by a user introducing ramen in Miyagi Prefecture.",
+          "cover_alt": "Photo of \"Pork Ramen\" from Jikaseimen Ichimura Ni (thick-cut chashu, low-temperature chashu, and back fat)"
+        }
       },
       "embed_url": "https://www.instagram.com/reel/Ddn-o4Dppu8/",
       "embed_platform": "instagram",
@@ -86,7 +91,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "\"Yamada-an\" in Southern Miyagi — Meat-Based Chinese Cuisine for Under ¥1,000",
+          "category": "Southern Miyagi",
+          "summary": "\"Yamada-an,\" featured in the southern region of Miyagi Prefecture. Known for its excellent value—offering meat-based Chinese cuisine for under 1,000 yen—it is highlighted in visitor posts as a hidden gem in the southern part of the prefecture.",
+          "cover_alt": "Watercolor-style illustration of meat chuka soba"
+        }
       },
       "embed_url": "https://www.threads.com/@ohayo_sendai/post/DZTeo_9E_ug",
       "embed_platform": "threads",
@@ -112,7 +122,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Sendai \"Ramen Billy\" — Shio Ramen, 950 yen, 200g serving",
+          "category": "Sendai",
+          "summary": "\"Ramen Billy\" in the Sendai area. A visitor's post describes their experience having the shio ramen (950 yen) with 200g of noodles and a light serving of vegetables.",
+          "cover_alt": "Watercolor-style illustration of shio ramen"
+        }
       },
       "embed_url": "https://www.threads.com/@yu_04_14/post/DSamQOPErBD",
       "embed_platform": "threads",
@@ -138,7 +153,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Shiogama City \"Maguro Senmonten Gao\" — Tuna Bowl at Naorai Yokocho",
+          "category": "Coast",
+          "summary": "\"Maguro Senmonten Gao\" is located in Naorai Yokocho on Kaigan-dori in Shiogama City. A specialty restaurant where you can enjoy tuna dishes such as negitoro bowls, it is featured in visitor posts as a place you'll want to visit from time to time.",
+          "cover_alt": "Watercolor-style illustration of a tuna negitoro bowl"
+        }
       },
       "embed_url": "https://www.threads.com/@laugh.rain/post/DcW8lsKEyC2",
       "embed_platform": "threads",
@@ -164,7 +184,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Sendai City's \"Jogi Tofu Shop\" — Sankaku-age and Rich Soy Milk",
+          "category": "Sendai",
+          "summary": "\"Jogi Tofu Shop,\" located in Aoba Ward, Sendai City. Known for its signature triangular fried tofu—served with shichimi garlic and soy sauce while enjoying rich soy milk—it is featured in visitor posts as a spot that makes you want to eat two pieces.",
+          "cover_alt": "Watercolor-style illustration of triangular fried tofu and soy milk"
+        }
       },
       "embed_url": "https://www.threads.com/@azuma_wm/post/De-bZI7gdlx",
       "embed_platform": "threads",
