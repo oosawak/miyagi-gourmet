@@ -1,0 +1,31 @@
+{
+  "site": "miyagi",
+  "category_map": {
+    "仙台": "Sendai",
+    "海側": "Coast",
+    "県南": "Southern Miyagi"
+  },
+  "note": "PLaMo 3 Translate 用の用語集。terms は全段落共通でモデルへ渡す。",
+  "terms": [
+    {
+      "source": "塩釜",
+      "target": "Shiogama"
+    },
+    {
+      "source": "利府",
+      "target": "Rifu"
+    },
+    {
+      "source": "マグロ",
+      "target": "tuna"
+    },
+    {
+      "source": "ずんだ",
+      "target": "zunda"
+    },
+    {
+      "source": "牛タン",
+      "target": "beef tongue"
+    }
+  ]
+}
